@@ -9,14 +9,15 @@ I'm a graduate in Computer Science Engineering 🎓 from Universidad Técnica Fe
 ### About me:
 
 - 🛠 &nbsp; I’m currently working as a software engineer mobile I - iOS.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/hugosep).
 - 📝 &nbsp; Checkout my [Resume](https://github.com/hugosep/hugosep/blob/master/resume.pdf).
 - 💻 &nbsp; I love to know more about new technologies, programming languages and software engineering.
 
 
 ### Languages and Tools:
 
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift"></code>
 
 
 <div align="center">
