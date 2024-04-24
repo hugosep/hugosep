@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-sepulveda-arriaza/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hugo_sep/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/wgithz4qceyfoz8fjpwzit48u?si=8ac45eb7353d4cee)
 
 I'm a graduate in Computer Science Engineering 🎓 from Universidad Técnica Federico Santa María 🏛, Chile. I like to learn about new technologies and the theory behind them 💡.
 
